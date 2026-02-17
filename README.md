@@ -233,9 +233,3 @@ Para los siguiente ejercicios `bash` tiene una variable llamada `$USERNAME`, est
 
 * Formato: `mi_top.sh`
 * Descripción. Debe mostrar en top solamente los procesos del usuario actual.
-
-## Creación de procesos
-
-### Linux
-
-### Windows
